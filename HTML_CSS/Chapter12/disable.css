@@ -1,0 +1,6 @@
+/* 특정 요소가 있는 요소 선택 */
+
+input[disabled]+label {
+    color: lightgray;
+    text-decoration: line-through;
+}
