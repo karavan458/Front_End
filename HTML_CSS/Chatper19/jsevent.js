@@ -1,5 +1,5 @@
 // 버튼 클릭 이벤트 추가하기
-const $myButton = document.querySelector('#myButton');
+const myButton = document.querySelector('#myButton');
 
 // 마우스 클릭 이벤트
 myButton.addEventListener('click', function() {
