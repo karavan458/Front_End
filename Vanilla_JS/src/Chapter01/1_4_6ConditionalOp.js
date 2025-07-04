@@ -1,0 +1,7 @@
+// 삼항 연산자
+// A ? B : C
+
+let num = 100;
+let result = 100 % 2 === 0 ? "짝수" : "홀수";
+
+console.log(result);
